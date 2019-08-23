@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PlayerPong</string>
+    <string name="title">Player Pong!</string>
+    <string name="play">Play Game</string>
+    <string name="rules">Welcome to Player Pong!\n \nRule 1: Hitting on the right edge of the screen causes you to gain a point. \n Rule 2: Hitting on the left edge of the screen causes you to lose a point. \n Hope you Enjoy!</string>
+</resources>
